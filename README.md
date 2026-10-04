@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **21** | 0 | 21 | 0 | `2026-10-04` |
+| **22** | 0 | 22 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (21)
+### DSA (22)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -36,7 +36,8 @@
 | 0018 | [997. Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0019 | [1006. Pattern 8](./DSA/General/pattern-8) | [JAVA](./DSA/General/pattern-8/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0020 | [1008. Pattern 9](./DSA/General/pattern-9) | [JAVA](./DSA/General/pattern-9/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0021 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0021 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0022 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 
 ---
 

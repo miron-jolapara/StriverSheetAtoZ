@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **58** | 0 | 58 | 0 | `2026-10-22` |
+| **59** | 0 | 59 | 0 | `2026-10-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (58)
+### DSA (59)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -72,8 +72,9 @@
 | 0054 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
 | 0055 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0056 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
-| 0057 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0058 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
+| 0057 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0058 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0059 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
 
 ---
 

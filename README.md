@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **96** | 0 | 96 | 0 | `2026-11-02` |
+| **97** | 0 | 97 | 0 | `2026-11-02` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (96)
+### DSA (97)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -97,21 +97,22 @@
 | 0079 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-11` |
 | 0080 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
 | 0081 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0082 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [JAVA](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
-| 0083 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0084 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
-| 0085 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
-| 0086 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
-| 0087 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
-| 0088 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0089 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
-| 0090 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-28` |
-| 0091 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
-| 0092 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0093 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0094 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
-| 0095 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
-| 0096 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0082 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [JAVA](./DSA/Arrays/selection-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-11-02` |
+| 0083 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [JAVA](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
+| 0084 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0085 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
+| 0086 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
+| 0087 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
+| 0088 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
+| 0089 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0090 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
+| 0091 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-28` |
+| 0092 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0093 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0094 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
+| 0095 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
+| 0096 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
+| 0097 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
 
 ---
 

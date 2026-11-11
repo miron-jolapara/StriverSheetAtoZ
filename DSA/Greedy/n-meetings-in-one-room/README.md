@@ -1,0 +1,47 @@
+# [133. N meetings in one room](https://takeuforward.org/practice/dsa/n-meetings-in-one-room)
+
+![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+
+---
+
+## 📝 Problem Statement
+
+Given one meeting room and N meetings represented by two arrays, start and end, where start[i] represents the start time of the ith meeting and end[i] represents the end time of the ith meeting, determine the **maximum** number of meetings that can be accommodated in the meeting room if only one meeting can be held at a time. A meeting starting at the same time another meeting ends is considered overlapping.
+
+### Example 1:
+
+**Input:** Start = [1, 3, 0, 5, 8, 5]&nbsp;,&nbsp;End = [2, 4, 6, 7, 9, 9]
+
+**Output:** 4
+
+**Explanation:** The meetings that can be accommodated in meeting room are (1,2) , (3,4) , (5,7) , (8,9).
+
+### Example 2:
+
+**Input:** Start = [10, 12, 20]&nbsp;,&nbsp;End = [20, 25, 30]
+
+**Output:** 1
+
+**Explanation:** Given the start and end time, only one meeting can be held in meeting room.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
+
+### Constraints
+
+- 1 <= N <= 10^5
+- 0 <= start[i] < end[i] <= 10^5
+
+---
+
+## 💡 Complexity Analysis
+
+- **Time Complexity:** $\mathcal{O}(N)$
+- **Space Complexity:** $\mathcal{O}(1)$
+
+---
+
+<p align="center">
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+</p>

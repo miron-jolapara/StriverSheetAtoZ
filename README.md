@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **134** | 0 | 134 | 0 | `2026-11-20` |
+| **135** | 0 | 135 | 0 | `2026-11-21` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (134)
+### DSA (135)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -71,85 +71,86 @@
 | 0053 | [838. Linear Search](./DSA/General/linear-search) | [JAVA](./DSA/General/linear-search/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-10` |
 | 0054 | [97. Longest Consecutive Sequence in an Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
 | 0055 | [30. Longest Palindromic Substring](./DSA/Strings/longest-palindromic-substring) | [JAVA](./DSA/Strings/longest-palindromic-substring/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-20` |
-| 0056 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [JAVA](./DSA/Strings/longest-substring-without-repeating-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-17` |
-| 0057 | [729. Lower Bound](./DSA/General/lower-bound-) | [JAVA](./DSA/General/lower-bound-/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
-| 0058 | [83. Majority Element-I](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0059 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0060 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-25` |
-| 0061 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0062 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
-| 0063 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [JAVA](./DSA/Heaps/median-of-2-sorted-arrays/solution.java) | ⚪ Unspecified | `Heaps` | `2026-11-12` |
-| 0064 | [10. Merge Intervals](./DSA/General/merge-intervals) | [JAVA](./DSA/General/merge-intervals/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0065 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-02` |
-| 0066 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0067 | [377. Minimum Bit Flips to Convert Number](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number) | [JAVA](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
-| 0068 | [354. Minimum days to make M bouquets](./DSA/General/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/General/minimum-days-to-make-m-bouquets/solution.java) | ⚪ Unspecified | `General` | `2026-11-06` |
-| 0069 | [133. N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | ⚪ Unspecified | `Greedy` | `2026-11-11` |
-| 0070 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-28` |
-| 0071 | [89. Non-overlapping Intervals](./DSA/General/non-overlapping-intervals) | [JAVA](./DSA/General/non-overlapping-intervals/solution.java) | ⚪ Unspecified | `General` | `2026-11-02` |
-| 0072 | [388. Number of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-18` |
-| 0073 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-11-08` |
-| 0074 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-05` |
-| 0075 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0076 | [898. Pattern 10](./DSA/General/pattern-10) | [JAVA](./DSA/General/pattern-10/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0077 | [907. Pattern 11](./DSA/General/pattern-11) | [JAVA](./DSA/General/pattern-11/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0078 | [909. Pattern 12](./DSA/General/pattern-12) | [JAVA](./DSA/General/pattern-12/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0079 | [918. Pattern 13](./DSA/General/pattern-13) | [JAVA](./DSA/General/pattern-13/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0080 | [920. Pattern 14](./DSA/General/pattern-14) | [JAVA](./DSA/General/pattern-14/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0081 | [929. Pattern 15](./DSA/General/pattern-15) | [JAVA](./DSA/General/pattern-15/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0082 | [931. Pattern 16](./DSA/General/pattern-16) | [JAVA](./DSA/General/pattern-16/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0083 | [940. Pattern 17](./DSA/General/pattern-17) | [Solution-2](./DSA/General/pattern-17/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0084 | [942. Pattern 18](./DSA/General/pattern-18) | [JAVA](./DSA/General/pattern-18/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0085 | [951. Pattern 19](./DSA/General/pattern-19) | [JAVA](./DSA/General/pattern-19/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0086 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0087 | [975. Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0088 | [984. Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0089 | [986. Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0090 | [995. Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0091 | [997. Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0092 | [1006. Pattern 8](./DSA/General/pattern-8) | [JAVA](./DSA/General/pattern-8/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0093 | [1008. Pattern 9](./DSA/General/pattern-9) | [JAVA](./DSA/General/pattern-9/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0094 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [JAVA](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-13` |
-| 0095 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [JAVA](./DSA/Arrays/quick-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
-| 0096 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0097 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-06` |
-| 0098 | [793. Recursive Insertion Sort](./DSA/Recursion/recursive-insertion-sort) | [JAVA](./DSA/Recursion/recursive-insertion-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-06` |
-| 0099 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
-| 0100 | [420. Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [JAVA](./DSA/Recursion/remove-outermost-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-12` |
-| 0101 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [JAVA](./DSA/General/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0102 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-10-05` |
-| 0103 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0104 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [JAVA](./DSA/Arrays/reverse-an-array-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
-| 0105 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | ⚪ Unspecified | `General` | `2026-10-17` |
-| 0106 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0107 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [JAVA](./DSA/Arrays/search-in-2d-matrix-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0108 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [JAVA](./DSA/Arrays/search-in-a-2d-matrix/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
-| 0109 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0110 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0111 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-11` |
-| 0112 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
-| 0113 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-11-11` |
-| 0114 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0115 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [JAVA](./DSA/Arrays/selection-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-11-02` |
-| 0116 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [JAVA](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
-| 0117 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0118 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
-| 0119 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
-| 0120 | [346. Single Number - III](./DSA/Bit-Manipulation/single-number---iii) | [JAVA](./DSA/Bit-Manipulation/single-number---iii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-14` |
-| 0121 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
-| 0122 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-11` |
-| 0123 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
-| 0124 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [JAVA](./DSA/Arrays/subarrays-with-k-different-integers/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-20` |
-| 0125 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0126 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
-| 0127 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-28` |
-| 0128 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
-| 0129 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0130 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0131 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
-| 0132 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
-| 0133 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
-| 0134 | [243. Valid Parenthesis Checker](./DSA/Recursion/valid-paranthesis-checker) | [JAVA](./DSA/Recursion/valid-paranthesis-checker/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-11` |
+| 0056 | [106. Longest Repeating Character Replacement](./DSA/General/longest-repeating-character-replacement) | [JAVA](./DSA/General/longest-repeating-character-replacement/solution.java) | ⚪ Unspecified | `General` | `2026-11-21` |
+| 0057 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [JAVA](./DSA/Strings/longest-substring-without-repeating-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-17` |
+| 0058 | [729. Lower Bound](./DSA/General/lower-bound-) | [JAVA](./DSA/General/lower-bound-/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0059 | [83. Majority Element-I](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0060 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0061 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-25` |
+| 0062 | [305. Maximum Points You Can Obtain from Cards](./DSA/General/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/General/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0063 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
+| 0064 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [JAVA](./DSA/Heaps/median-of-2-sorted-arrays/solution.java) | ⚪ Unspecified | `Heaps` | `2026-11-12` |
+| 0065 | [10. Merge Intervals](./DSA/General/merge-intervals) | [JAVA](./DSA/General/merge-intervals/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
+| 0066 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-02` |
+| 0067 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0068 | [377. Minimum Bit Flips to Convert Number](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number) | [JAVA](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
+| 0069 | [354. Minimum days to make M bouquets](./DSA/General/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/General/minimum-days-to-make-m-bouquets/solution.java) | ⚪ Unspecified | `General` | `2026-11-06` |
+| 0070 | [133. N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | ⚪ Unspecified | `Greedy` | `2026-11-11` |
+| 0071 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-28` |
+| 0072 | [89. Non-overlapping Intervals](./DSA/General/non-overlapping-intervals) | [JAVA](./DSA/General/non-overlapping-intervals/solution.java) | ⚪ Unspecified | `General` | `2026-11-02` |
+| 0073 | [388. Number of Substrings Containing All Three Characters](./DSA/Strings/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Strings/number-of-substrings-containing-all-three-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-18` |
+| 0074 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-11-08` |
+| 0075 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-05` |
+| 0076 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0077 | [898. Pattern 10](./DSA/General/pattern-10) | [JAVA](./DSA/General/pattern-10/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0078 | [907. Pattern 11](./DSA/General/pattern-11) | [JAVA](./DSA/General/pattern-11/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0079 | [909. Pattern 12](./DSA/General/pattern-12) | [JAVA](./DSA/General/pattern-12/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0080 | [918. Pattern 13](./DSA/General/pattern-13) | [JAVA](./DSA/General/pattern-13/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0081 | [920. Pattern 14](./DSA/General/pattern-14) | [JAVA](./DSA/General/pattern-14/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0082 | [929. Pattern 15](./DSA/General/pattern-15) | [JAVA](./DSA/General/pattern-15/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0083 | [931. Pattern 16](./DSA/General/pattern-16) | [JAVA](./DSA/General/pattern-16/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0084 | [940. Pattern 17](./DSA/General/pattern-17) | [Solution-2](./DSA/General/pattern-17/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0085 | [942. Pattern 18](./DSA/General/pattern-18) | [JAVA](./DSA/General/pattern-18/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0086 | [951. Pattern 19](./DSA/General/pattern-19) | [JAVA](./DSA/General/pattern-19/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0087 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0088 | [975. Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0089 | [984. Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0090 | [986. Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0091 | [995. Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0092 | [997. Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0093 | [1006. Pattern 8](./DSA/General/pattern-8) | [JAVA](./DSA/General/pattern-8/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0094 | [1008. Pattern 9](./DSA/General/pattern-9) | [JAVA](./DSA/General/pattern-9/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0095 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [JAVA](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-13` |
+| 0096 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [JAVA](./DSA/Arrays/quick-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
+| 0097 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0098 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-06` |
+| 0099 | [793. Recursive Insertion Sort](./DSA/Recursion/recursive-insertion-sort) | [JAVA](./DSA/Recursion/recursive-insertion-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-06` |
+| 0100 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
+| 0101 | [420. Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [JAVA](./DSA/Recursion/remove-outermost-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-12` |
+| 0102 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [JAVA](./DSA/General/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0103 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-10-05` |
+| 0104 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0105 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [JAVA](./DSA/Arrays/reverse-an-array-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
+| 0106 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | ⚪ Unspecified | `General` | `2026-10-17` |
+| 0107 | [87. Roman to Integer](./DSA/General/roman-to-integer) | [JAVA](./DSA/General/roman-to-integer/solution.java) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0108 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [JAVA](./DSA/Arrays/search-in-2d-matrix-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0109 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [JAVA](./DSA/Arrays/search-in-a-2d-matrix/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
+| 0110 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0111 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0112 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-11` |
+| 0113 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
+| 0114 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-11-11` |
+| 0115 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0116 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [JAVA](./DSA/Arrays/selection-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-11-02` |
+| 0117 | [Set the Rightmost Unset Bit](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit) | [JAVA](./DSA/Bit-Manipulation/set-the-rightmost-unset-bit/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-29` |
+| 0118 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0119 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
+| 0120 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-30` |
+| 0121 | [346. Single Number - III](./DSA/Bit-Manipulation/single-number---iii) | [JAVA](./DSA/Bit-Manipulation/single-number---iii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-14` |
+| 0122 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
+| 0123 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-11` |
+| 0124 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
+| 0125 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [JAVA](./DSA/Arrays/subarrays-with-k-different-integers/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-20` |
+| 0126 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0127 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
+| 0128 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-28` |
+| 0129 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0130 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0131 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
+| 0132 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-11` |
+| 0133 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
+| 0134 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0135 | [243. Valid Parenthesis Checker](./DSA/Recursion/valid-paranthesis-checker) | [JAVA](./DSA/Recursion/valid-paranthesis-checker/solution.java) | ⚪ Unspecified | `Recursion` | `2026-11-11` |
 
 ---
 
